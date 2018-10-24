@@ -9,3 +9,6 @@ def line(array)
     puts line_array.join
   end
 end
+
+def take_a_number(array, name)
+end
