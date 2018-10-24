@@ -8,5 +8,4 @@ def line(array)
     end
     puts line_array.join
   end
-
 end
